@@ -15,7 +15,7 @@ Overall, being a DragonKnight in the IT world is an exciting and fulfilling expe
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Snake%20Charmer;Blockchain%20Developer&font=Abril&width=800&height=50&color=58a6ff&vCenter=true&size=28&duration=3000&pause=1500">
 
 <p algin="center">
-    <img src="./assets/Post.gif" alt="">
+    <img src="./assets/Post.gif" algin="center" alt="">
 </p>
 
 * IT is the air I breathe, the beat of my heart, and the essence of my being.
