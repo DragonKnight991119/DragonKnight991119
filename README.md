@@ -6,7 +6,7 @@ Becoming a DragonKnight in the IT world is a dream that I am determined to turn 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Snake%20Charmer;Blockchain%20Developer&font=Abril&width=800&height=50&color=58a6ff&vCenter=true&size=28&duration=3000&pause=1500">
 
 <p algin="center">
-    <img src="./assets/Post.gif" algin="center" alt="">
+    <img src="./assets/Post.gif" style="width:100%" alt="">
 </p>
 
 * IT is the air I breathe, the beat of my heart, and the essence of my being.
