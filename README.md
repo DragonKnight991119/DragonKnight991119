@@ -42,7 +42,4 @@ Becoming a DragonKnight in the IT world is a dream that I am determined to turn 
   &nbsp;&nbsp;
   <a href="https://discord.gg/q5kGW4PS" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
   &nbsp;&nbsp;
-  <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/whatsapp.png"  width="40" />+1 213 985 0522</a>
-  &nbsp;&nbsp;
-  </div>
 </div>
