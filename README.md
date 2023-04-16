@@ -1,6 +1,6 @@
 <h1 align="center">Why is my name DragonKnight?</h1>
 
-Becoming a DragonKnight in the IT world is a dream that I am determined to turn into a reality. I know that it will require a lot of hard work, but I am willing to put in the effort to develop the necessary skills and knowledge. With each step forward, I am one step closer to achieving my goal and making my mark in the world of technology.
+Becoming a DragonKnight in the IT world is a dream that I am determined to turn into a reality. I know that it will require a lot of hard work, but I am willing to put in the effort to develop the necessary skills and knowledge. With dedication and perseverance, I am confident that I will one day become a true dragon knight and make a lasting impact in the industry.
 
 ## OverView
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Snake%20Charmer;Blockchain%20Developer&font=Abril&width=800&height=50&color=58a6ff&vCenter=true&size=28&duration=3000&pause=1500">
